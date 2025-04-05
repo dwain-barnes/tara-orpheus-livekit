@@ -65,12 +65,13 @@ Before running Tara, you'll need:
 
 1. Make sure the Orpheus TTS server is running (default: http://localhost:5005)
 2. Make sure Ollama is running with the llama3.2 model loaded
-3. Run the voice assistant:
+3. Make sure to reaplce the default openai tts.py with the tts.py from this repo 
+4. Run the voice assistant:
    ```bash
    python tara.py
    ```
 
-4. Connect to the LiveKit room and start interacting with Tara
+5. Connect to the LiveKit room and start interacting with Tara
 
 ## 🔧 How It Works
 
