@@ -30,8 +30,7 @@ Before running Tara, you'll need:
 - Python 3.9+
 - [Orpheus TTS FastAPI Server](https://github.com/Lex-au/Orpheus-FastAPI) installed and running
 - [Ollama](https://ollama.ai/) installed with the LLama3.2 model
-- [LiveKit CLI tools](https://github.com/livekit/livekit-cli)
-- [Faster Whisper](https://github.com/guillaumekln/faster-whisper) or compatible STT system
+- [Faster Whisper] or compatible STT system
 
 ## 🚀 Installation
 
@@ -45,8 +44,8 @@ Before running Tara, you'll need:
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tara-voice-assistant
-   cd tara-voice-assistant
+   git clone https://github.com/dwain-barnes/tara-orpheus-livekit
+   cd tara-orpheus-livekit
    ```
 
 3. Install dependencies:
@@ -127,15 +126,7 @@ agent = VoicePipelineAgent(
 )
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📜 License
 
