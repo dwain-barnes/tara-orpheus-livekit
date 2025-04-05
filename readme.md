@@ -7,10 +7,7 @@
 
 Tara is a fully local, zero-cost voice assistant that combines the power of Orpheus TTS, LiveKit, and local LLMs to create incredibly natural and expressive speech. This project eliminates the need for cloud-based API services by integrating:
 
-<p align="center">
-  <video src="./tara.mp4" controls="controls" style="max-width: 100%; height: auto;" muted="false">
-  </video>
-</p>
+
 
 
 - **Orpheus TTS** for human-like speech with natural intonation and emotion
