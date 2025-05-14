@@ -33,7 +33,7 @@ Before running Tara, you'll need:
 - Python 3.9+
 - [Orpheus TTS FastAPI Server](https://github.com/Lex-au/Orpheus-FastAPI) installed and running
 - [Ollama](https://ollama.ai/) installed with the LLama3.2 model
-- [Faster Whisper] or compatible STT system
+- [Faster Whisper] or compatible STT system [Speaches AI](https://speaches.ai/)
 
 ## 🚀 Installation
 
